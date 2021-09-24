@@ -1,0 +1,24 @@
+.App_id{
+    /* width: 100vh; */
+    height: 90%;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main_class{
+    width: 500px;
+    border: 5px solid greenyellow;
+    height:fit-content;
+    flex-wrap: wrap;
+}
+
+/* 
+@media (max-width: 800px) {
+    .App_id {
+      flex-direction: row;
+      height: 100vh;
+    }
+  } */

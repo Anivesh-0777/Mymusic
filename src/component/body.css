@@ -1,0 +1,44 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    background-color: turquoise;
+    flex-wrap: wrap;
+}
+.element_1{
+    display: flex;
+    flex-direction: row;
+    /* height: 70px; */
+    /* width: 100vh; */
+    border: 2px solid green;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.dropdown{
+    width: 30px;
+    height: 30px;
+    float: center;
+    align-items: center;
+}
+
+
+#lyrics{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+    
+    /* width:fit-content; */
+    /* box-sizing: border-box; */
+    /* display: flex;
+    flex-direction: row;
+    justify-content:space-around; */
+    /* background-color: coral; */
+    /* height: 40px; */
+}
+
+#likeit{
+    height: 50%;
+}

@@ -1,0 +1,6 @@
+.footer{
+    display: flex;
+    /* background-color: chocolate; */
+    align-items: flex-end;
+    justify-content: flex-end;
+}

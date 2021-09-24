@@ -1,0 +1,11 @@
+.header{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding:  30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* row-gap: 80px; */
+    box-sizing: border-box;
+}
